@@ -1,0 +1,57 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_image": "https://i.ibb.co/CstmdHZ/Spaghetti-Bolognese.jpg",
+      "recipe_name": "Spaghetti Bolognese",
+      "short_description": "Classic Italian pasta dish with savory meat sauce.",
+      "ingredients": ["500g ground beef", "1 onion, chopped", "2 cloves garlic, minced"],
+      "preparing_time": 30,
+      "calories": 600
+    },
+    {
+      "recipe_id": 2,
+      "recipe_image": "https://i.ibb.co/7g4nc7Q/Chicken-Caesar-Salad.jpg",
+      "recipe_name": "Chicken Caesar Salad",
+      "short_description": "Classic salad with savory meat sauce.",
+      "ingredients": ["500g chicken", "1 onion, chopped", "2 cloves garlic, minced"],
+      "preparing_time": 20,
+      "calories": 400
+    },
+    {
+      "recipe_id": 3,
+      "recipe_image": "https://i.ibb.co/7g4nc7Q/Chicken-Caesar-Salad.jpg",
+      "recipe_name": "Grilled Cheese Sandwich",
+      "short_description": "Delicious cheese sandwich grilled to perfection.",
+      "ingredients": ["2 slices of bread", "2 slices of cheese", "1 tbsp butter"],
+      "preparing_time": 10,
+      "calories": 300
+    },
+    {
+      "recipe_id": 4,
+      "recipe_image": "https://i.ibb.co/CstmdHZ/Spaghetti-Bolognese.jpg",
+      "recipe_name": "Beef Tacos",
+      "short_description": "Tasty tacos filled with seasoned beef.",
+      "ingredients": ["200g ground beef", "1 taco shell", "50g lettuce", "50g cheese"],
+      "preparing_time": 25,
+      "calories": 450
+    },
+    {
+      "recipe_id": 5,
+      "recipe_image": "https://i.ibb.co/7g4nc7Q/Chicken-Caesar-Salad.jpg",
+      "recipe_name": "Vegetable Stir Fry",
+      "short_description": "Healthy stir fry with mixed vegetables.",
+      "ingredients": ["200g broccoli", "1 bell pepper", "100g carrot", "50ml soy sauce"],
+      "preparing_time": 15,
+      "calories": 200
+    },
+    {
+      "recipe_id": 6,
+      "recipe_image": "https://i.ibb.co/CstmdHZ/Spaghetti-Bolognese.jpg",
+      "recipe_name": "Pancakes",
+      "short_description": "Fluffy pancakes with syrup.",
+      "ingredients": ["200g flour", "2 eggs", "300ml milk", "50g sugar"],
+      "preparing_time": 20,
+      "calories": 350
+    }
+  ]
+  
